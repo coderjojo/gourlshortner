@@ -1,0 +1,5 @@
+URLShortner: 2024/01/27 21:33:14 handler.go:53: Retrive stats : {}
+URLShortner: 2024/01/27 21:33:21 shortner.go:70: URL shortened: https://www.example.com -> short_17063714
+URLShortner: 2024/01/27 21:33:21 handler.go:26: URL shortned: short_17063714
+URLShortner: 2024/01/27 21:33:21 handler.go:27: shortner URL handler called
+URLShortner: 2024/01/27 21:33:45 shortner.go:45: Redirecting : short_17063714 -> https://www.example.com
